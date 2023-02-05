@@ -1,10 +1,17 @@
-# Colden Johnson's Portfolio
-## Project information
-- **Author**: Colden Johnson, Political Economy and Data Science, 2026, Duke Kunshan University
+# Colden Johnson Project Portfolio
+
+## Table of Contents
+- [Project Information](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-ColdenJohnson#project_information)
+- [Data](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-ColdenJohnson#data)
+- [Code](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-ColdenJohnson#code)
+- [Spotlight](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-ColdenJohnson#spotlight)
+
+
+## Project Information
+- **Author**: Colden Johnson, Political Economy and Data Science - 2026, Duke Kunshan University
 - **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
 - **Disclaimer**: Submissions to the Problem Set 1 for STATS201 Introduction to Machine Learning for Social Science, 2023 Spring Term (Seven Week - First) instructed by Prof. Luyao Zhang at Duke Kunshan University.
-- **Acknowledgments**: [How to Acknowledge?](https://www.scribbr.co.uk/thesis-dissertation/acknowledgements/)
-[notes: please include all professors, students, and staff who have contributed to your completetion of the project.]
+- **Acknowledgments**: Professor Luyao Zhang
 - **Project Summary**: 
   - [Summarize the Background/Motivation]
   - [Research Questions]
@@ -12,31 +19,16 @@
   - [Methodology]
   - [Results]
   - [Intellectual Merits and Practical impacts of your project.]
-  
-## Problem Set 1 Collab Notebook
-[Problem Set 1 Collab Notebook](https://colab.research.google.com/drive/1AbYrhP8utbsuXxT5Ef7u3Lua7RlECmSW?usp=sharing)
-
-
-
-## Table of Contents
-- data
-- code
-- spotlight
-
 
 
 ## Data
-- Data Source:
-- Queried Data
-- Processed Data
-- ...
-
+- Data Source: Various papers on reinforcment learning
+- [Citation Bibliography](csv link)
+- [Processed Data](wordcloud data link)
 
 ## Code
-- Query Data
-- Process Data
-- Analyze Data
-- ...
+- [Problem Set 1 - Query Blockchain Data Using an API](link)
+- [Problem Set 2 - Word Association Clouds](link)
 
 ## Spotlight
 - Figures
@@ -55,20 +47,5 @@
 ### Articles
 - Article Source Title and URL
 ### Literature
-- Literature References in [Chicago Author-Date](https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-2.html) Style and [BibTex](https://scholar.google.com/) 
 
-Levin, Dan, and Luyao Zhang. 2020. “Bridging Level-K to Nash Equilibrium.” *The Review of Economics and Statistics* 104 (6): 1329–40. https://doi.org/10.1162/rest_a_00990.
-
-```
-@article{levin2022bridging,
-  title={Bridging level-k to nash equilibrium},
-  author={Levin, Dan and Zhang, Luyao},
-  journal={Review of Economics and Statistics},
-  volume={104},
-  number={6},
-  pages={1329--1340},
-  year={2022},
-  publisher={MIT Press One Rogers Street, Cambridge, MA 02142-1209, USA journals-info~…}
-}
-```
-
+[https://github.com/Rising-Stars-by-Sunshine/Intro-Colden-Johnson/edit/main/README.md](https://colab.research.google.com/drive/1AbYrhP8utbsuXxT5Ef7u3Lua7RlECmSW?usp=sharing)
