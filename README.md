@@ -6,6 +6,9 @@
 - [Code](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-ColdenJohnson#code)
 - [Spotlight](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-ColdenJohnson#spotlight)
 
+## Bio
+Hello. My name is Colden Johnson, and I am currently a student at Duke Kunshan University. I am majoring in political economy and data science, and am interested in studying at the intersection of these two fields. I have experience with R, Python, and Java, and am specifically interested in data analysis and statistics methods. I am excited to continue developing my skills in both coding and data science.
+
 
 ## Project Information
 - **Author**: Colden Johnson, Political Economy and Data Science - 2026, Duke Kunshan University
