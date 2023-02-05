@@ -28,7 +28,7 @@
 
 ## Code
 - [Problem Set 1 - Query Blockchain Data Using an API](https://colab.research.google.com/drive/1AbYrhP8utbsuXxT5Ef7u3Lua7RlECmSW?usp=sharing)
-- [Problem Set 2 - Word Association Clouds](link)
+- [Problem Set 2 - Word Association Analysis](https://colab.research.google.com/drive/1OwKz1WhyP5aiOPkGSp6b57AwLK0DJnOb#scrollTo=cmpxjx_PdB_d)
 
 ## Spotlight
 - Figures
