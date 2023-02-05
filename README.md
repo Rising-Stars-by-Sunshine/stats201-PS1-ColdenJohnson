@@ -1,7 +1,7 @@
 # Colden Johnson Project Portfolio
 
 ## Table of Contents
-- [Project Information](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-ColdenJohnson#project_information)
+- [Project Information](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-ColdenJohnson#project)
 - [Data](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-ColdenJohnson#data)
 - [Code](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-ColdenJohnson#code)
 - [Spotlight](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-ColdenJohnson#spotlight)
