@@ -1,7 +1,7 @@
 # Colden Johnson Project Portfolio
 
 ## Table of Contents
-- [Project Information](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-ColdenJohnson#Project-Information)
+- [Project Information](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-ColdenJohnson#project_information)
 - [Data](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-ColdenJohnson#data)
 - [Code](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-ColdenJohnson#code)
 - [Spotlight](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-ColdenJohnson#spotlight)
@@ -22,16 +22,23 @@
 
 
 ## Data
-- Data Source: Various papers on reinforcment learning
-- [Citation Bibliography](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-ColdenJohnson/blob/main/data/Queried_Data/Bibliography%20Citations.csv)
-- [Processed Data](wordcloud data link)
+- Data Source: Papers using reinforcement learning to predict bitcoin pricing
+- [Queried Data](https://github.com/ColdenJohnson/Stats201-PS1-ColdenJohnson/blob/main/data/Queried_Data/Bibliography%20Citations.csv)
+- [Processed Data Title_Bigram](https://github.com/ColdenJohnson/Stats201-PS1-ColdenJohnson/blob/main/data/Processed_Data/title_bigram.csv)
+- [Processed Data Abstract_Bigram](https://github.com/ColdenJohnson/Stats201-PS1-ColdenJohnson/blob/main/data/Processed_Data/abstract_bigram.csv)
 
 ## Code
-- [Problem Set 1 - Query Blockchain Data Using an API](https://colab.research.google.com/drive/1AbYrhP8utbsuXxT5Ef7u3Lua7RlECmSW?usp=sharing)
-- [Problem Set 2 - Word Association Analysis](https://colab.research.google.com/drive/1OwKz1WhyP5aiOPkGSp6b57AwLK0DJnOb#scrollTo=cmpxjx_PdB_d)
+- [Problem Set 1 - Query Blockchain Data Using an API](https://colab.research.google.com/drive/1AbYrhP8utbsuXxT5Ef7u3Lua7RlECmSW)
+- [Problem Set 2 - Word Association Clouds](https://colab.research.google.com/drive/1OwKz1WhyP5aiOPkGSp6b57AwLK0DJnOb)
 
 ## Spotlight
 - Figures
+
+Word Cloud
+![image](https://user-images.githubusercontent.com/118926209/216818931-f3bf3115-64fc-41b2-9788-3ef70fcfb889.png)
+
+Bigram
+![image](https://user-images.githubusercontent.com/118926209/216818668-87475eec-0cca-4b9c-9a95-ca51979f622e.png)
 - Posters
 - Slides
 - Presentations
@@ -48,3 +55,4 @@
 - Article Source Title and URL
 ### Literature
 
+[https://github.com/Rising-Stars-by-Sunshine/Intro-Colden-Johnson/edit/main/README.md](https://colab.research.google.com/drive/1AbYrhP8utbsuXxT5Ef7u3Lua7RlECmSW?usp=sharing)
