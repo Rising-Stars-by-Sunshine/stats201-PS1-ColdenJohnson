@@ -23,7 +23,7 @@
 
 ## Data
 - Data Source: Various papers on reinforcment learning
-- [Citation Bibliography](csv link)
+- [Citation Bibliography](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-ColdenJohnson/blob/main/data/Queried_Data/Bibliography%20Citations.csv)
 - [Processed Data](wordcloud data link)
 
 ## Code
