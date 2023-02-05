@@ -54,3 +54,4 @@ Bigram
 ### Articles
 - Article Source Title and URL
 ### Literature
+[Bibliography Data](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-ColdenJohnson/blob/main/data/Queried_Data/Bibliography%20Citations.csv)
