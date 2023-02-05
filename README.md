@@ -23,9 +23,9 @@
 
 ## Data
 - Data Source: Papers using reinforcement learning to predict bitcoin pricing
-- [Queried Data](https://github.com/ColdenJohnson/Stats201-PS1-ColdenJohnson/blob/main/data/Queried_Data/Bibliography%20Citations.csv)
-- [Processed Data Title_Bigram](https://github.com/ColdenJohnson/Stats201-PS1-ColdenJohnson/blob/main/data/Processed_Data/title_bigram.csv)
-- [Processed Data Abstract_Bigram](https://github.com/ColdenJohnson/Stats201-PS1-ColdenJohnson/blob/main/data/Processed_Data/abstract_bigram.csv)
+- [Queried Data Bibliographies](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-ColdenJohnson/blob/main/data/Queried_Data/Bibliography%20Citations.csv)
+- [Processed Data Title_Bigram](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-ColdenJohnson/blob/main/data/Processed_Data/title_bigram.csv)
+- [Processed Data Abstract_Bigram](https://github.com/Rising-Stars-by-Sunshine/stats201-PS1-ColdenJohnson/blob/main/data/Processed_Data/abstract_bigram.csv)
 
 ## Code
 - [Problem Set 1 - Query Blockchain Data Using an API](https://colab.research.google.com/drive/1AbYrhP8utbsuXxT5Ef7u3Lua7RlECmSW)
