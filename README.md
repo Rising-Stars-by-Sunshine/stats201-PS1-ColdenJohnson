@@ -27,7 +27,7 @@
 - [Processed Data](wordcloud data link)
 
 ## Code
-- [Problem Set 1 - Query Blockchain Data Using an API](link)
+- [Problem Set 1 - Query Blockchain Data Using an API](https://colab.research.google.com/drive/1AbYrhP8utbsuXxT5Ef7u3Lua7RlECmSW?usp=sharing)
 - [Problem Set 2 - Word Association Clouds](link)
 
 ## Spotlight
@@ -48,4 +48,3 @@
 - Article Source Title and URL
 ### Literature
 
-[https://github.com/Rising-Stars-by-Sunshine/Intro-Colden-Johnson/edit/main/README.md](https://colab.research.google.com/drive/1AbYrhP8utbsuXxT5Ef7u3Lua7RlECmSW?usp=sharing)
